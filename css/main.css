@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    width: 2000px;
+    text-align: center;
+}
+
+#header{
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+section {
+    color: green;
+}
